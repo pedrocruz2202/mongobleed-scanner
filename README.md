@@ -56,6 +56,15 @@ The scanner identifies vulnerability by exploiting a size mismatch during the BS
 4. The server trustfully uses the attacker-provided `uncompressedSize` to define the response length. Since it fails to update this length with the actual bytes written during decompression, it blindly streams the entire allocated heap buffer—including uninitialized memory—back to the client.
 5. The scanner validates the response by reading the extra bytes from the stream, which represent uninitialized fragments of the server's heap memory.
 
+## Proof of Concept
+<div align="center">
+  <video src="https://github.com/Black1hp/mongobleed-scanner/raw/main/MongoBleed_poc.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+> **Note:** The video above demonstrates the scanner identifying multiple vulnerable instances and capturing heap fragments in real-time.
+
 ## Author
 
 **Black1hp**
